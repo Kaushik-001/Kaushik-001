@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaushik-001
-- 👀 I’m interested in C & C++
-- 🌱 I’m currently learning C++ & Oops
+- 👀 I’m interested in C & C++ , Python , Machine Learning , AI
+- 🌱 I’m currently learning AI and DATA SCIENCE
 - 💞️ I’m looking to work on new and interesting projects and solve real life problems
 
 
